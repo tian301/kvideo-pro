@@ -1,0 +1,162 @@
+[
+  {
+    "id": "cf-main-1",
+    "name": "CF主线路·秒播",
+    "baseUrl": "https://svc.afcdn.top/api/v1/vod",
+    "group": "main",
+    "priority": 100,
+    "enabled": true
+  },
+  {
+    "id": "kkapi-fast-2",
+    "name": "快客影视·高画质",
+    "baseUrl": "https://api.kkapi.cc/api/v1/vod",
+    "group": "main",
+    "priority": 99,
+    "enabled": true
+  },
+  {
+    "id": "ccwpm-hd-3",
+    "name": "超清公益·无广告",
+    "baseUrl": "https://api.ccwpm.icu/api/v1/vod",
+    "group": "main",
+    "priority": 98,
+    "enabled": true
+  },
+  {
+    "id": "wdbfs-universe-4",
+    "name": "万能影视·全品类",
+    "baseUrl": "https://api.wdbfs.xyz/api/v1/vod",
+    "group": "main",
+    "priority": 97,
+    "enabled": true
+  },
+  {
+    "id": "filmovi-cn-5",
+    "name": "院线专享·大陆片",
+    "baseUrl": "https://filmovi.eu.org/api/v1/vod",
+    "group": "main",
+    "priority": 96,
+    "enabled": true
+  },
+  {
+    "id": "tvbox-mix-6",
+    "name": "TVBox多仓聚合",
+    "baseUrl": "https://tvbox-meijv.pages.dev/api",
+    "group": "main",
+    "priority": 95,
+    "enabled": true
+  },
+  {
+    "id": "anime-jp-7",
+    "name": "动漫专属·日漫",
+    "baseUrl": "https://anime-api.wdbfs.xyz/api/v1/vod",
+    "group": "anime",
+    "priority": 94,
+    "enabled": true
+  },
+  {
+    "id": "us-series-8",
+    "name": "美剧·海外剧",
+    "baseUrl": "https://us-api.wdbfs.xyz/api/v1/vod",
+    "group": "main",
+    "priority": 93,
+    "enabled": true
+  },
+  {
+    "id": "hd-4k-9",
+    "name": "蓝光4K·高码率",
+    "baseUrl": "https://hd-api.afcdn.top/api/v1/vod",
+    "group": "main",
+    "priority": 92,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-10",
+    "name": "终极兜底·永不挂",
+    "baseUrl": "https://api.kuaikanys.top/api/v1/vod",
+    "group": "main",
+    "priority": 90,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-11",
+    "name": "豪华资源",
+    "baseUrl": "https://hhzyapi.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 89,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-12",
+    "name": "非凡影视",
+    "baseUrl": "http://ffzy5.tv/api.php/provide/vod/",
+    "group": "main",
+    "priority": 88,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-13",
+    "name": "极速资源",
+    "baseUrl": "https://jszyapi.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 87,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-14",
+    "name": "电影天堂资源",
+    "baseUrl": "https://caiji.dyttzyapi.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 86,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-15",
+    "name": "卧龙资源",
+    "baseUrl": "https://wolongzyw.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 85,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-16",
+    "name": "如意资源",
+    "baseUrl": "http://cj.rycjapi.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 84,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-17",
+    "name": "天涯资源",
+    "baseUrl": "https://tyyszy.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 83,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-18",
+    "name": "暴风资源",
+    "baseUrl": "https://bfzyapi.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 82,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-19",
+    "name": "360资源",
+    "baseUrl": "https://360zy.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 81,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-20",
+    "name": "魔都资源",
+    "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 80,
+    "enabled": true
+  }
+]
