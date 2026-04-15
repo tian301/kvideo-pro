@@ -1,5 +1,21 @@
 [
   {
+    "id": "ksnnhbj-own",
+    "name": "KSN影视源",
+    "baseUrl": "https://svc.afcdn.top/api/cors?url=https://www.ksnnhbj.com",
+    "group": "main",
+    "priority": 102,
+    "enabled": true
+  },
+  {
+    "id": "sizhengxt-own",
+    "name": "思正影视源",
+    "baseUrl": "https://svc.afcdn.top/api/cors?url=https://m.sizhengxt.com",
+    "group": "main",
+    "priority": 101,
+    "enabled": true
+  },
+  {
     "id": "cf-main-1",
     "name": "CF主线路·秒播",
     "baseUrl": "https://svc.afcdn.top/api/v1/vod",
@@ -158,13 +174,5 @@
     "group": "main",
     "priority": 80,
     "enabled": true
-  },
-  {
-  "id": "ksnnhbj-own",
-  "name": "KSN影视源",
-  "baseUrl": "https://svc.afcdn.top/api/cors?url=https://www.ksnnhbj.com",
-  "group": "main",
-  "priority": 101,
-  "enabled": true
   }
 ]
