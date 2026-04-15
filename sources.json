@@ -158,5 +158,13 @@
     "group": "main",
     "priority": 80,
     "enabled": true
+  },
+  {
+  "id": "ksnnhbj-own",
+  "name": "KSN影视源",
+  "baseUrl": "https://svc.afcdn.top/api/cors?url=https://www.ksnnhbj.com",
+  "group": "main",
+  "priority": 101,
+  "enabled": true
   }
 ]
