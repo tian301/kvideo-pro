@@ -174,5 +174,261 @@
     "group": "main",
     "priority": 80,
     "enabled": true
+  },
+  {
+    "id": "backup-last-21",
+    "name": "魔爪资源",
+    "baseUrl": "https://mozhuazy.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 79,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-22",
+    "name": "豆瓣资源",
+    "baseUrl": "https://dbzy.tv/api.php/provide/vod/",
+    "group": "main",
+    "priority": 78,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-23",
+    "name": "最大资源",
+    "baseUrl": "https://api.zuidapi.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 77,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-24",
+    "name": "樱花资源",
+    "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 76,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-25",
+    "name": "百度云资源",
+    "baseUrl": "https://api.apibdzy.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 75,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-26",
+    "name": "无尽资源",
+    "baseUrl": "https://api.wujinapi.me/api.php/provide/vod/",
+    "group": "main",
+    "priority": 74,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-27",
+    "name": "旺旺短剧",
+    "baseUrl": "https://wwzy.tv/api.php/provide/vod/",
+    "group": "main",
+    "priority": 73,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-28",
+    "name": "卧龙资源2",
+    "baseUrl": "https://collect.wolongzyw.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 72,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-29",
+    "name": "量子资源站",
+    "baseUrl": "https://cj.lziapi.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 71,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-30",
+    "name": "iKun资源",
+    "baseUrl": "https://ikunzyapi.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 70,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-31",
+    "name": "虎牙资源",
+    "baseUrl": "https://www.huyaapi.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 69,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-32",
+    "name": "茅台资源",
+    "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod/",
+    "group": "main",
+    "priority": 68,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-33",
+    "name": "速播资源",
+    "baseUrl": "https://subocaiji.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 67,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-34",
+    "name": "索尼资源",
+    "baseUrl": "https://suoniapi.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 66,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-35",
+    "name": "金鹰资源",
+    "baseUrl": "https://jyzyapi.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 65,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-36",
+    "name": "CK资源",
+    "baseUrl": "https://ckzy.me/api.php/provide/vod/",
+    "group": "main",
+    "priority": 64,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-37",
+    "name": "閃電资源",
+    "baseUrl": "https://sdzyapi.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 63,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-38",
+    "name": "飘零资源",
+    "baseUrl": "https://p2100.net/api.php/provide/vod/",
+    "group": "main",
+    "priority": 62,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-39",
+    "name": "1080资源库",
+    "baseUrl": "https://api.1080zyku.com/inc/api_mac10.php/",
+    "group": "main",
+    "priority": 61,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-40",
+    "name": "U酷资源",
+    "baseUrl": "https://api.ukuapi.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 60,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-41",
+    "name": "红牛资源",
+    "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 59,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-42",
+    "name": "丫丫点播",
+    "baseUrl": "https://cj.yayazy.net/api.php/provide/vod/",
+    "group": "main",
+    "priority": 58,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-43",
+    "name": "新浪点播",
+    "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+    "group": "main",
+    "priority": 57,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-44",
+    "name": "光速资源",
+    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 56,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-45",
+    "name": "牛牛点播",
+    "baseUrl": "https://api.niuniuzy.me/api.php/provide/vod/",
+    "group": "main",
+    "priority": 55,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-46",
+    "name": "步步高资源",
+    "baseUrl": "https://api.yparse.com/api/json",
+    "group": "main",
+    "priority": 54,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-47",
+    "name": "快车资源",
+    "baseUrl": "https://caiji.kuaichezy.org/api.php/provide/vod/",
+    "group": "main",
+    "priority": 53,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-48",
+    "name": "影视工厂",
+    "baseUrl": "https://cj.lziapi.com/api.php/provide/vod/",
+    "group": "main",
+    "priority": 52,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-49",
+    "name": "鸭鸭资源",
+    "baseUrl": "https://cj.yayazy.net/api.php/provide/vod/",
+    "group": "main",
+    "priority": 51,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-50",
+    "name": "猫眼",
+    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
+    "group": "main",
+    "priority": 50,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-51",
+    "name": "暴风",
+    "baseUrl": "http://by.bfzyapi.com/api.php/provide/vod",
+    "group": "main",
+    "priority": 49,
+    "enabled": true
+  },
+  {
+    "id": "backup-last-52",
+    "name": "360",
+    "baseUrl": "https://360zyzz.com/api.php/provide/vod",
+    "group": "main",
+    "priority": 48,
+    "enabled": true
   }
 ]
