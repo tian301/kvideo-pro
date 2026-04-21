@@ -1,5 +1,29 @@
 [
   {
+    "id": "feimao-stable-0",
+    "name": "肥猫（最稳）",
+    "baseUrl": "http://肥猫.com",
+    "group": "main",
+    "priority": 105,
+    "enabled": true
+  },
+  {
+    "id": "fantaiying-1",
+    "name": "饭太硬",
+    "baseUrl": "http://www.饭太硬.com/tv/",
+    "group": "main",
+    "priority": 104,
+    "enabled": true
+  },
+  {
+    "id": "qiaoji-2",
+    "name": "巧技",
+    "baseUrl": "http://cdn.qiaoji8.com/tvbox.json",
+    "group": "main",
+    "priority": 103,
+    "enabled": true
+  },
+  {
     "id": "ksnnhbj-own",
     "name": "KSN影视源",
     "baseUrl": "https://svc.afcdn.top/api/cors?url=https://www.ksnnhbj.com",
